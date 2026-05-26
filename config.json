@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachececrypt",
+        "uuid": 8200704,
+        "checksum": "dvfytp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
